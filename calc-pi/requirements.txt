@@ -1,0 +1,11 @@
+black==22.10.0
+click==8.1.3
+commonmark==0.9.1
+mpmath==1.2.1
+mypy-extensions==0.4.3
+pathspec==0.10.1
+platformdirs==2.5.2
+py-cpuinfo==9.0.0
+Pygments==2.13.0
+rich==12.6.0
+tomli==2.0.1
